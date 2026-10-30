@@ -53,4 +53,5 @@ L20,low,yes,fair,yes
 
 ## Output:
 <img width="1436" height="756" alt="image" src="https://github.com/user-attachments/assets/5b9a923f-a2a0-42d3-b4e6-c3fa5e22239d" />
+## Result:
 Thus, this program has been successfully executed.
